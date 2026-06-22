@@ -1,5 +1,3 @@
-this code is related to the paper :
-M. F. Elshahat, M. R. M. Rizk and S. E. El-Khamy, "Optimizing LoRa for Underwater Acoustic Links: Carrier Frequency and Spreading Factor Trade-Offs," 2025 7th Novel Intelligent and Leading Emerging Sciences Conference (NILES), Giza, Egypt, 2025, pp. 45-49, doi: 10.1109/NILES68063.2025.11232417. keywords: {Adaptive systems;Bit error rate;LoRa;Frequency conversion;Underwater acoustics;Optimization;Underwater vehicles;Signal to noise ratio;Resilience;Guidelines;Underwater acoustic communication;Chirp Spread Spectrum;LoRa optimization;Carrier frequency selection;Spreading factor adaptation;Bit Error Rate performance},
+this code is related to the paper : "Optimizing LoRa for Underwater Acoustic Links: Carrier Frequency and Spreading Factor Trade-Offs,". 
 If you use this code or any (modified) part of it in any publication, please cite the paper: M. F. Elshahat, M. R. M. Rizk and S. E. El-Khamy, "Optimizing LoRa for Underwater Acoustic Links: Carrier Frequency and Spreading Factor Trade-Offs," 2025 7th Novel Intelligent and Leading Emerging Sciences Conference (NILES), Giza, Egypt, 2025, pp. 45-49, doi: 10.1109/NILES68063.2025.11232417.
 Contact person email: mohfarag1985@gmail.com ,mohamed.farag21@alexu.edu.eg
-
